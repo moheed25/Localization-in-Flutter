@@ -1,0 +1,7 @@
+{
+  "helloWorld": "Hello World!",
+  
+   "email": "Email",
+      "password": "Password" ,
+       "login": "Login"
+}

@@ -1,0 +1,7 @@
+{
+  "helloWorld": "你好世界",
+  
+   "email": "电子邮件",
+      "password": "密码" ,
+       "login": "登录"
+}
